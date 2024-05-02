@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">掌上论坛</string>
-    <string name="app_desc">掌上论坛</string>
-    <string name="copyright">©2001-2018 Comsenz Inc</string>
+    <string name="app_name">机械动力模组论坛</string>
+    <string name="app_desc">机械动力模组论坛</string>
+    <string name="copyright">©CreateBBS</string>
     <string name="net_msg">无网络环境  点“是”会进行网络设置，点“否”取消</string>
     <string name="ok">是</string>
     <string name="no">否</string>
