@@ -15,12 +15,12 @@ android {
     }
     compileSdkVersion 26
     defaultConfig {
-        applicationId 'cn.tencent.DiscuzMob'
+        applicationId 'Xyz.CreateBBS.Mobile'
 //        applicationId 'cn.bbs.rednet'
         minSdkVersion 19
         targetSdkVersion 26
         versionCode 1
-        versionName "1.0.0"
+        versionName "1.0"
     }
 
     buildTypes {
